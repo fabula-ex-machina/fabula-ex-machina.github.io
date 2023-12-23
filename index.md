@@ -7,5 +7,5 @@
 
   <b>Fabula ex machina</b> means literally 'fairy tale from the machine'. It stands for the phenomenon of imaginary
   facts construction by a Language Model. It replaces the incorrect analogy to biological 'hallucination' invented 
-  by Andrej Karpathy which is incorrect and can not be further from reality.  
+  by Andrej Karpathy which is wrong and can not be further from reality.  
 </pre>
