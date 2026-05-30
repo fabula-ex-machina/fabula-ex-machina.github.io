@@ -4,10 +4,6 @@ title: Fabula ex Machina
 ---
 # Fabula ex Machina
 <pre>
-  'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
-  book "Cybernetics, or Control and Communication in the Animal and the Machine".
-</pre>
-<pre>
   <b>Fabula ex machina</b> means literally 'fable from the machine'. It stands for the
   phenomenon of imaginary facts construction by a Language Model. It replaces the in-
   correct analogy to biological 'hallucination' invented by Andrej Karpathy which is 
